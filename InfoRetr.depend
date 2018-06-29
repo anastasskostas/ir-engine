@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1444406317 source:/home/sokratis/Desktop/InfoRetr/src/InvertedIndex.cpp
+	<iostream>
+	<fstream>
+	<thread>
+	<sstream>
+	<iterator>
+	<mutex>
+	<math.h>
+	<algorithm>
+	"InvertedIndex.h"
+
+1444277954 /home/sokratis/Desktop/InfoRetr/include/InvertedIndex.h
+	<string>
+	<unordered_map>
+	<list>
+	<vector>
+
+1444277948 source:/home/sokratis/Desktop/InfoRetr/main.cpp
+	<iostream>
+	<fstream>
+	<mutex>
+	<thread>
+	<sys/time.h>
+	"InvertedIndex.h"
+

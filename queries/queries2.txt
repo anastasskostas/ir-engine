@@ -1,0 +1,8 @@
+6
+1 5 is
+2 2 glass
+3 2 advertisement
+4 20 beautiful day
+5 10 band
+6 8 audio
+
